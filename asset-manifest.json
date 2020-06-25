@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactrouter/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reactrouter/static/js/main.5382b8f8.chunk.js",
+    "main.js.map": "/reactrouter/static/js/main.5382b8f8.chunk.js.map",
+    "runtime-main.js": "/reactrouter/static/js/runtime-main.c98c4bf1.js",
+    "runtime-main.js.map": "/reactrouter/static/js/runtime-main.c98c4bf1.js.map",
+    "static/js/2.02321254.chunk.js": "/reactrouter/static/js/2.02321254.chunk.js",
+    "static/js/2.02321254.chunk.js.map": "/reactrouter/static/js/2.02321254.chunk.js.map",
+    "index.html": "/reactrouter/index.html",
+    "precache-manifest.aaf210926ae6e3368c0392339bf5376f.js": "/reactrouter/precache-manifest.aaf210926ae6e3368c0392339bf5376f.js",
+    "service-worker.js": "/reactrouter/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reactrouter/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.02321254.chunk.js.LICENSE.txt": "/reactrouter/static/js/2.02321254.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c98c4bf1.js",
+    "static/js/2.02321254.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5382b8f8.chunk.js"
+  ]
+}
